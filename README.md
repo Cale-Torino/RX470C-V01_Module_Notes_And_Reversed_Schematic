@@ -1,0 +1,2 @@
+# RX470C-V01_Module_Notes_And_Reversed_Schematic
+RX470C-V01_Module_Notes_And_Reversed_Schematic
